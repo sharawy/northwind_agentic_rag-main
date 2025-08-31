@@ -1,0 +1,33 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+.env/
+*.env
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Cache files
+*.cache
+*.bak
+
+# IDE settings
+.idea/
+.vscode/
+
+# Test coverage
+.coverage
+htmlcov/
+*.bin
+.vs/chroma.sqlite3
+.vs/index.faiss
+.vs/index.pkl
